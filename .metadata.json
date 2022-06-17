@@ -1,0 +1,14 @@
+[
+  {
+    "package": "AMAPVox",
+    "oncran": true
+  },
+  {
+    "package": "aRchi",
+    "oncran": true
+  },
+  {
+    "package": "BIOMASS",
+    "oncran": true
+  }
+]
