@@ -8,13 +8,13 @@
 	url = https://github.com/umr-amap/amapvox
 	shallow = true
 	registered = true
-[submodule "aRchi"]
-	path = aRchi
-	url = https://github.com/umr-amap/archi
-	shallow = true
-	registered = true
 [submodule "BIOMASS"]
 	path = BIOMASS
 	url = https://github.com/umr-amap/biomass
+	shallow = true
+	registered = true
+[submodule "aRchi"]
+	path = aRchi
+	url = https://github.com/umr-amap/archi
 	shallow = true
 	registered = true
