@@ -4,10 +4,10 @@
     "oncran": true
   },
   {
-    "package": "BIOMASS",
-    "oncran": true
+    "package": "aRchi"
   },
   {
-    "package": "aRchi"
+    "package": "BIOMASS",
+    "oncran": true
   }
 ]
