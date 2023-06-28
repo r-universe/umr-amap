@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AMAPVox"]
 	path = AMAPVox
 	url = https://github.com/umr-amap/amapvox
-	shallow = true
-	registered = true
 [submodule "BIOMASS"]
 	path = BIOMASS
 	url = https://github.com/umr-amap/biomass
-	shallow = true
-	registered = true
