@@ -8,3 +8,6 @@
 [submodule "BIOMASS"]
 	path = BIOMASS
 	url = https://github.com/umr-amap/biomass
+[submodule "StormR"]
+	path = StormR
+	url = https://github.com/umr-amap/stormr
